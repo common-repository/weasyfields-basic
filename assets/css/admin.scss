@@ -1,0 +1,164 @@
+#weasyfields-error-handler{
+    .weasyfields-null-error{
+        display: none;
+        &.weasyfields-error-show{
+            display: block;
+        }
+    }
+}
+
+#weasyfields-field-type-list{
+    display: none;
+}
+
+.weasyfields-form-space{
+    .weasyfields-phone-pattern{
+        display: none;
+    }
+    #weasyfields-save-fields{
+        float: right;
+    }
+    .weasyfield-required{
+        box-sizing: border-box;
+        border: 2px solid;
+        border-color: #a00;
+        &:focus,&:hover{
+            border-color: #a00;
+            box-shadow: none;
+        }
+    }
+    .menu-item-handle{
+        box-sizing: border-box;
+        width: 414px;
+    }
+    .weasyfields-remove-field{
+        display: block;
+        float: right;
+        margin-top: 10px;
+        color: #a00;
+    }
+    .weasyfields-delete-fields{
+        display: block;
+        color: #a00;
+        float: left;
+        margin-top: 10px;
+    }
+    .weasyfields-action-buttons{
+        float: right;
+    }
+    .weasyfields-select{
+        width: 100%;
+        max-width: 100%;
+    }
+    #weasyfields-field-list{
+        margin-bottom: 0px;
+        .weasyfields-field-item{
+            margin-bottom: 0px;
+        }
+        .menu-item-settings{
+            box-sizing: border-box;
+            padding: 10px;
+            width: 414px;
+            max-width: 382px;
+        }
+        .sortable-placeholder{
+            box-sizing: border-box;
+            width: 414px;
+            height: 41px;
+            margin-top: 20px;
+        }
+        .menu-item-settings{
+            background: #fff;
+        }
+    }
+    .weasyfields-field-open-menu{
+        position: absolute;
+        right: -20px;
+        top: 0;
+        display: block;
+        width: 30px;
+        height: 40px;
+        outline: none!important;
+        box-shadow: none!important;
+        color: #72777c!important;
+        &::before{
+            margin-top: 10px;
+            margin-left: 4px;
+            width: 20px;
+            border-radius: 50%;
+            text-indent: -1px;
+            content: "\f140";
+            font: normal 20px/1 dashicons;
+            display: block;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            text-decoration: none;
+            transition: all 200ms linear
+        }
+        &.opened{
+            &::before{
+                transform: rotate(-180deg);
+                transition: all 200ms linear
+            }
+        }
+    }
+    .weasyfields-label{
+        display: block;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .weasyfields-add-opt{
+        display: block;
+        margin-bottom: 10px;
+    }
+    .weasyfields-field-item-opt-wrapper{
+        background: #fafafa;
+        border-radius: 3px;
+        border: 1px solid #ddd;
+        padding: 15px;
+        .weasyfields-field-item-opt{
+            box-sizing: border-box;
+            position: relative;
+            &:last-child{
+                margin: 0;
+            }
+            .weasyfields-field-item-opt-remove{
+                position: absolute;
+                width: 15px;
+                height: 15px;
+                right: 10px;
+                top: 7.5px;
+                cursor: pointer;
+                &::before,
+                &::after{
+                    content: '';
+                    display: block;
+                    width: 15px;
+                    height: 3px;
+                    border-radius: 20px;
+                    position: absolute;
+                    left: 0;
+                    top: calc( 50% - 1.5px );
+                    transform: rotate(-45deg);
+                    background: #007cba;
+                }
+                &::after{
+                    transform: rotate(45deg)
+                }
+            }
+        }
+    }
+}
+
+.weasyfields-product-page-data-list{
+    font-size: .875em;
+    dt{
+        font-weight: 700;
+    }
+    dd{
+        margin: 0 0 1em;
+    }
+    p{
+        margin: 0;
+    }
+}

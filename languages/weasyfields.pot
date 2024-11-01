@@ -1,0 +1,525 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WeasyFields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-14 13:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: views/fields-page/add-new.php:84 views/fields-page/edit.php:104
+msgid "Add field"
+msgstr ""
+
+#: views/fields-page/add-new.php:73 views/fields-page/edit.php:93
+msgid "Add new field"
+msgstr ""
+
+#: views/fields-page/add-new.php:3
+msgid "Add new fields"
+msgstr ""
+
+#: views/field-particles/opt.php:6
+msgid "Add option"
+msgstr ""
+
+#: views/fields-page/add-new.php:28 views/fields-page/edit.php:29
+msgid "Add title"
+msgstr ""
+
+#: classes/woocommercehooks/datavalidations.php:365
+#, php-format
+msgid ""
+"An e-mail address must be entered in the field named \"%s\". The e-mail "
+"address you entered is an invalid e-mail address."
+msgstr ""
+
+#: classes/woocommercehooks/datavalidations.php:158
+#: classes/woocommercehooks/datavalidations.php:280
+msgid "An unexpected situation occurred, please fill in the fields again!"
+msgstr ""
+
+#: views/checkoutfields.php:55
+msgid "Billing custom fields"
+msgstr ""
+
+#: views/field-particles/field-list.php:17 views/fields/checkbox.php:8
+msgid "Checkbox"
+msgstr ""
+
+#: views/fields-page/add-new.php:52 views/fields-page/edit.php:53
+msgid "Checkout"
+msgstr ""
+
+#: classes/checkoutfields.php:24 classes/checkoutfields.php:25
+msgid "Checkout Fields"
+msgstr ""
+
+#: views/checkoutfields.php:3 views/checkoutfields.php:48
+msgid "Checkout fields"
+msgstr ""
+
+#: classes/checkoutfields.php:59
+msgid "Checkout fields have been saved successfully."
+msgstr ""
+
+#: views/field-particles/class.php:3
+msgid "Class:"
+msgstr ""
+
+#: views/field-particles/field-list.php:29 views/fields/color.php:8
+msgid "Color picker"
+msgstr ""
+
+#: views/field-particles/field-list.php:23 views/fields/date.php:8
+msgid "Date"
+msgstr ""
+
+#: views/fields-page/edit.php:77
+msgid "Delete fields"
+msgstr ""
+
+#: views/fields-data.php:37
+msgid "Delete File"
+msgstr ""
+
+#: views/fields-data.php:46
+msgid "Deleted file"
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:39
+msgid "DOCX"
+msgstr ""
+
+#: views/settings.php:82
+msgid "Download backup"
+msgstr ""
+
+#: classes/fieldslist.php:96 views/field-particles/item-bar-bot.php:4
+msgid "Edit"
+msgstr ""
+
+#: views/field-particles/validation.php:11
+msgid "Email"
+msgstr ""
+
+#: views/field-particles/enabled.php:3
+msgid "Enabled field"
+msgstr ""
+
+#: views/settings.php:74
+msgid "Export the backup"
+msgstr ""
+
+#: views/field-particles/field-list.php:3
+msgid "Field type"
+msgstr ""
+
+#: classes/fields.php:24 classes/fields.php:25 views/fields-page/add-new.php:99
+#: views/fields-page/edit.php:119 views/fields-page/list.php:3
+msgid "Fields"
+msgstr ""
+
+#: classes/fieldslist.php:55
+msgid "Fields created data"
+msgstr ""
+
+#: views/fields-data.php:4
+msgid "Fields data ( WeasyFields )"
+msgstr ""
+
+#: classes/fields.php:184
+msgid "Fields deleted successfully."
+msgstr ""
+
+#: classes/fieldslist.php:56
+msgid "Fields edit"
+msgstr ""
+
+#: classes/fields.php:157
+msgid "Fields have been saved successfully."
+msgstr ""
+
+#: classes/fieldslist.php:54 views/fields-page/edit.php:61
+msgid "Fields status"
+msgstr ""
+
+#: classes/fieldslist.php:52
+msgid "Fields title"
+msgstr ""
+
+#: classes/fieldslist.php:53 views/fields-page/add-new.php:44
+#: views/fields-page/edit.php:45
+msgid "Fields type"
+msgstr ""
+
+#: classes/fields.php:126
+msgid "Fields updated successfully."
+msgstr ""
+
+#: views/fields-frontend.php:220
+msgid "File format is not supported in Checkout fields."
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:3
+msgid "File max size (MB):"
+msgstr ""
+
+#: views/field-particles/field-list.php:32 views/fields/file.php:8
+msgid "File upload"
+msgstr ""
+
+#. Author of the plugin
+msgid "Halil BEYCAN"
+msgstr ""
+
+#: views/field-particles/field-list.php:35 views/fields/headline.php:8
+msgid "Headline"
+msgstr ""
+
+#: views/field-particles/field-list.php:38 views/fields/htmlcode.php:8
+msgid "HTML CODE"
+msgstr ""
+
+#: views/field-particles/html-code.php:3
+msgid "HTML CODE:"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://weasyfields.halilbeycan.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.halilbeycan.com"
+msgstr ""
+
+#: views/settings.php:21
+msgid ""
+"If you make this setting passive. No other page will work except the "
+"WeasyFields plugin settings page. You can activate it again whenever you "
+"want."
+msgstr ""
+
+#: views/field-particles/class.php:7
+msgid "If you write more than one class, leave a space between them."
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:31
+msgid "JPEG"
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:27
+msgid "JPG"
+msgstr ""
+
+#: views/field-particles/item-bar-top.php:5 views/field-particles/label.php:3
+msgid "Label:"
+msgstr ""
+
+#: classes/fields.php:82
+msgid "Maximum file size value should be at least 1."
+msgstr ""
+
+#: classes/checkoutfields.php:50 classes/woocommercehooks/producthooks.php:84
+#: views/field-particles/validation.php:8
+msgid "None"
+msgstr ""
+
+#: classes/general.php:224
+msgid "Null"
+msgstr ""
+
+#: views/fields-data.php:55
+msgid "Null file"
+msgstr ""
+
+#: views/fields-data.php:21
+msgid "Open File"
+msgstr ""
+
+#: views/field-particles/opt.php:3
+msgid "Options:"
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:47
+msgid "PDF"
+msgstr ""
+
+#: views/field-particles/validation.php:14
+msgid "Phone"
+msgstr ""
+
+#: views/field-particles/validation.php:23
+msgid "Phone pattern:"
+msgstr ""
+
+#: views/field-particles/placeholder.php:3
+msgid "Placeholder:"
+msgstr ""
+
+#: views/fields-page/add-new.php:19 views/fields-page/add-new.php:104
+#: views/fields-page/edit.php:20
+msgid "Please add a field on the right."
+msgstr ""
+
+#: views/fields-frontend.php:32 views/field-particles/file-upload-opt.php:12
+msgid "Please choose at least one!"
+msgstr ""
+
+#: classes/fields.php:79
+msgid "Please enter the maximum file size value."
+msgstr ""
+
+#: classes/woocommercehooks/producthooks.php:158
+msgid "Please fill in the product fields before adding to cart."
+msgstr ""
+
+#: views/checkoutfields.php:10 views/fields-page/add-new.php:10
+#: views/fields-page/edit.php:11
+msgid "Please fill in the required fields, the relevant fields are marked."
+msgstr ""
+
+#: classes/fields.php:76
+msgid "Please select at least one file extension."
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:23
+msgid "PNG"
+msgstr ""
+
+#: views/fields-page/add-new.php:49 views/fields-page/edit.php:50
+msgid "Product"
+msgstr ""
+
+#: views/fields-page/edit.php:66
+msgid "Publish"
+msgstr ""
+
+#: views/field-particles/field-list.php:20 views/fields/radio.php:8
+msgid "Radio button"
+msgstr ""
+
+#: views/fields-page/list.php:10
+msgid "Related fields could not be found. You have been directed here."
+msgstr ""
+
+#: views/fields/checkbox.php:32 views/fields/color.php:28
+#: views/fields/date.php:27 views/fields/file.php:31
+#: views/fields/headline.php:26 views/fields/htmlcode.php:30
+#: views/fields/radio.php:32 views/fields/select.php:32
+#: views/fields/text.php:29 views/fields/textarea.php:28
+#: views/fields/time.php:28
+msgid "Remove field"
+msgstr ""
+
+#: views/fields-frontend.php:21
+msgid "Required"
+msgstr ""
+
+#: views/field-particles/required.php:3
+msgid "Required field"
+msgstr ""
+
+#: views/field-particles/validation.php:38
+msgid "Sample : 0536-665-64-94"
+msgstr ""
+
+#: views/field-particles/validation.php:36
+msgid "Sample number entry:"
+msgstr ""
+
+#: views/fields-frontend.php:76
+msgid "Sample: "
+msgstr ""
+
+#: views/fields-page/add-new.php:36 views/fields-page/add-new.php:61
+msgid "Save fields"
+msgstr ""
+
+#: views/settings.php:41
+msgid "Save settings"
+msgstr ""
+
+#: views/field-particles/field-list.php:14 views/fields/select.php:8
+msgid "Select ( Drop down )"
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:10
+msgid "Select the file types to be allowed:"
+msgstr ""
+
+#: classes/woocommercehooks/producthooks.php:92
+msgid "Select the product areas"
+msgstr ""
+
+#: classes/settings.php:41 classes/settings.php:42
+msgid "Settings"
+msgstr ""
+
+#: classes/settings.php:72
+msgid "Settings have been saved successfully."
+msgstr ""
+
+#: views/checkoutfields.php:72
+msgid "Shipping custom fields"
+msgstr ""
+
+#: classes/fields.php:47 classes/fields.php:107 classes/fields.php:128
+#: classes/settings.php:62
+msgid "Sorry something went wrong."
+msgstr ""
+
+#: views/field-particles/field-list.php:8 views/fields/text.php:8
+msgid "Text ( Single text area )"
+msgstr ""
+
+#: views/field-particles/field-list.php:11 views/fields/textarea.php:8
+msgid "Textarea ( Paragraph text area )"
+msgstr ""
+
+#: classes/settings.php:156
+msgid "The backup file you uploaded is an invalid backup file."
+msgstr ""
+
+#: classes/settings.php:146
+msgid "The backup has been uploaded successfully!"
+msgstr ""
+
+#: classes/woocommercehooks/datavalidations.php:138
+#, php-format
+msgid "The field named \"%s\" is required."
+msgstr ""
+
+#: classes/woocommercehooks/datavalidations.php:380
+#, php-format
+msgid ""
+"The field named \"%s\" should get a url address. The url address you entered "
+"is invalid."
+msgstr ""
+
+#: classes/woocommercehooks/datavalidations.php:236
+#, php-format
+msgid "The file named \"%s\" exceeds the maximum file size."
+msgstr ""
+
+#: classes/woocommercehooks/datavalidations.php:214
+#, php-format
+msgid ""
+"The file type you uploaded to the area named \"%s\" is an invalid file type!"
+msgstr ""
+
+#: views/fields-data.php:57
+msgid "The user has not selected a file."
+msgstr ""
+
+#: includes/loader.php:26
+msgid ""
+"The “WeasyFields” plugin cannot run without WooCommerce active. Please "
+"install and activate WooCommerce plugin."
+msgstr ""
+
+#: classes/settings.php:150
+msgid "There was a problem loading the backup!"
+msgstr ""
+
+#: classes/woocommercehooks/datavalidations.php:395
+#, php-format
+msgid ""
+"There was an invalid phone number entry for the field named \"%s\", please "
+"do as in the example."
+msgstr ""
+
+#: classes/fields.php:160
+msgid ""
+"This area is not publish at the moment and you can publish it by publishing "
+"it."
+msgstr ""
+
+#: views/fields-data.php:48
+msgid "This file may have been deleted or moved!"
+msgstr ""
+
+#: views/settings.php:33
+msgid ""
+"This setting is passive income by default. if you enable this setting. When "
+"you uninstall the WestFields plugin, all data created with WestFields, in "
+"all fields, will be deleted."
+msgstr ""
+
+#: views/field-particles/field-list.php:26 views/fields/time.php:8
+msgid "Time"
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:43
+#: views/field-particles/file-upload-opt.php:51
+msgid "TXT"
+msgstr ""
+
+#: views/fields-page/edit.php:69
+msgid "Unpublish"
+msgstr ""
+
+#: views/checkoutfields.php:24
+msgid "Update checkout fields"
+msgstr ""
+
+#: views/checkoutfields.php:33 views/fields-page/edit.php:3
+#: views/fields-page/edit.php:37 views/fields-page/edit.php:81
+msgid "Update fields"
+msgstr ""
+
+#: views/field-particles/validation.php:17
+msgid "Url"
+msgstr ""
+
+#: views/field-particles/validation.php:3
+msgid "Validation:"
+msgstr ""
+
+#. Name of the plugin
+#: classes/settings.php:27 classes/settings.php:28
+msgid "WeasyFields"
+msgstr ""
+
+#: views/settings.php:14 views/settings.php:18
+msgid "WeasyFields atctivation status"
+msgstr ""
+
+#: views/settings.php:49
+msgid "WeasyFields backup"
+msgstr ""
+
+#: views/settings.php:26 views/settings.php:30
+msgid "WeasyFields data deletion status"
+msgstr ""
+
+#: views/settings.php:3
+msgid "WeasyFields settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce easy custom fields plugin"
+msgstr ""
+
+#: views/field-particles/validation.php:29
+msgid ""
+"You can set this according to your country's phone number format. For "
+"detailed information, you can visit the address below. If you leave it blank,"
+" there will be no control."
+msgstr ""
+
+#: views/field-particles/file-upload-opt.php:35
+msgid "ZİP"
+msgstr ""
+
+#: views/settings.php:62
+msgid "İmport the backup"
+msgstr ""
